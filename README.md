@@ -8,7 +8,7 @@
 
 ## Kullanılan Kütüphaneler 
 
-<li> 
-    <ul>Font Awsome Kütüphanesi</ul>
-    <ul>Google Fonts Kütüphanesi</ul>
-</li>
+<ul> 
+    <li>Font Awsome Kütüphanesi</li>
+    <li>Google Fonts Kütüphanesi</li>
+</ul>
